@@ -19,7 +19,7 @@ This Python script reads data from Modbus energy meters and publishes it to an M
 1. Clone the repository.
 2. Install required libraries:
    ```bash
-   pip install -r requirements.txt
+   pip install paho-mqtt pymodbus
    ```
 
 **Usage:**
